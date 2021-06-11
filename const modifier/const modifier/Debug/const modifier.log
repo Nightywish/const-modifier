@@ -1,2 +1,2 @@
 ﻿  const modifier.cpp
-C:\Users\Lucas\Desktop\C++ project location\const-modifier\const modifier\const modifier\const modifier.cpp(11,15): error C3892: 'data': you cannot assign to a variable that is const
+  const modifier.vcxproj -> C:\Users\Lucas\Desktop\C++ project location\const-modifier\const modifier\Debug\const modifier.exe
